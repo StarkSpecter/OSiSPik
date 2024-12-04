@@ -1,3 +1,9 @@
+cmake-build-debug
+CMakeLists.txt
+.idea
+.vscode
+save.txt
+save2.txt
 # Prerequisites
 *.d
 
@@ -30,3 +36,6 @@
 *.exe
 *.out
 *.app
+
+*.xml
+*.iml
